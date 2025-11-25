@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p synth_asmd Absolute Standardized Mean Difference (ASMD) for the synthetic control method Use synth_asmd With STATA 19
