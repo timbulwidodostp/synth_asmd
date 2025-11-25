@@ -1,4 +1,9 @@
-D 'DEA': Data envelopment analysis
+D 'synth_asmd': Absolute Standardized Mean Difference (ASMD) for the synthetic control method Use synth_asmd With STATA 19
 D
-F dea.ado
-F dea.sthlp
+F lsynth_mata_subr.mlib
+F synth.ado
+F synth.sthlp
+F synth_asmd.ado
+F synth_asmd.sthlp
+F synth_ll.ado
+F synthopt.plugin
